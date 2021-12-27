@@ -68,7 +68,7 @@ int main()
         int mid = (s + l) / 2;
         if (x == mid)
         {
-            // cout << "number found" << endl;
+             cout << "number found" << endl;
             return 0;
         }
         if (x > mid)
@@ -84,7 +84,7 @@ int main()
             cout<<"Number not found"<<endl;
             break;
         }
-         cout << "Loop Check" << endl;
+         
     }
-    // cout << "number not found" << endl;
+   
 }
